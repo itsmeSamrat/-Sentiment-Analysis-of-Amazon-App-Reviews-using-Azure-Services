@@ -1,7 +1,7 @@
 <div align="center">
     <a href="https://github.com/itsmeSamrat" target="_blank">
         <img src="https://github.com/itsmeSamrat/Sentiment-Analysis-of-Amazon-App-Reviews-using-Azure-Services/blob/main/amazon-logo-transparent.png?raw=true" 
-        alt="Logo" width="325" height="225">
+        alt="Logo" width="375" height="225">
     </a>
 </div>
 
