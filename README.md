@@ -15,7 +15,7 @@ Sentiment analysis is a process that helps people understand how other people fe
 
 ## Problem Statement
 
-Amazon is a huge company and want to know what is the opinion or sentiment of their customers about their app. They want to use the google play store reviews data, to make their platform user friendly and minimize the bugs users are getting frequently.
+Amazon is a huge company and wants to know what is the opinion or sentiment of their customers about their app. They want to use the Google Play Store reviews data, to make their platform user-friendly and minimize the bugs users are getting frequently.
 
 [getting started](#getting-started)
 
